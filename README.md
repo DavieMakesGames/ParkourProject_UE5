@@ -1,6 +1,5 @@
 # ParkourProject by DavieTi
-From the Parkour series on YouTube!
-https://www.youtube.com/playlist?list=PLpDmNjTYiMsbdfgEMAbih5pAWVz_Q7Rh9
+Check out the video here: https://youtu.be/jwPlvJRGbWE
 -DavieMakesGames
 
 Developed with Unreal Engine 5
